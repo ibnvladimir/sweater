@@ -1,0 +1,1 @@
+DataBase=Use the postgreSQL. <br>See details in `src/main/resources/application.properties`
